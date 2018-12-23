@@ -10,7 +10,16 @@ Youtube to mp3 conversion API's
 <li>"<b>videostreams</b>" : for Video-Only results</li>
 <li>"<b>audiostreams</b>" : for Audio-Only results</li>
 </ul>
-
+<style>
+.button-api-frame{
+height : 85px;
+}
+@media only screen and (max-width: 500px) {
+    .button-api-frame{
+    height : 100%;
+    }
+}
+</style>
 
 
 <h4 class="panel-title panel-heading">Main Feature:</h4>
